@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1692476746 source:h:\cloudstation\ag22\ga_fl_cec15_f1_50\main.cpp
+	<config.h>
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<random>
+	<chrono>
+
+1717700586 source:h:\cloudstation\ag22\lato2024\ga_fl_fl_cec15_f1_50\main.cpp
+	<config.h>
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<random>
+	<chrono>
+
+1717700586 source:h:\cloudstation\ag22\lato2024\flc-ea\main.cpp
+	<config.h>
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<random>
+	<chrono>
+
